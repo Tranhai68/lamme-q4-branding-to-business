@@ -1,0 +1,10 @@
+# System & Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+scratch/
+tmp/
+.DS_Store
+Thumbs.db
